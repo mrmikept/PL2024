@@ -1,0 +1,62 @@
+[
+  {
+    "cod": "B12",
+    "nome": "Caf\u00e9",
+    "quant": 15,
+    "preco": 1.2
+  },
+  {
+    "cod": "C45",
+    "nome": "Batatas Fritas",
+    "quant": 10,
+    "preco": 1.0
+  },
+  {
+    "cod": "D67",
+    "nome": "Chocolate",
+    "quant": 20,
+    "preco": 0.8
+  },
+  {
+    "cod": "E89",
+    "nome": "Refrigerante 0.5L",
+    "quant": 12,
+    "preco": 1.5
+  },
+  {
+    "cod": "F34",
+    "nome": "Bolachas",
+    "quant": 18,
+    "preco": 0.6
+  },
+  {
+    "cod": "G56",
+    "nome": "Sandes de Frango",
+    "quant": 5,
+    "preco": 2.0
+  },
+  {
+    "cod": "H78",
+    "nome": "Sopa Instant\u00e2nea",
+    "quant": 7,
+    "preco": 1.3
+  },
+  {
+    "cod": "I90",
+    "nome": "Ma\u00e7\u00e3",
+    "quant": 9,
+    "preco": 0.9
+  },
+  {
+    "cod": "J01",
+    "nome": "Amendoins",
+    "quant": 11,
+    "preco": 0.75
+  },
+  {
+    "cod": "A33",
+    "nome": "\u00c1gua 0.5 ml",
+    "quant": 14,
+    "preco": 0.7
+  }
+]
