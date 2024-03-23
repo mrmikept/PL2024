@@ -1,5 +1,7 @@
 # TPC4 - Analisador Léxico
 
+## Data: 2024-03-01
+
 ## Autor
 
 - **Nome:** Mike Pinto
