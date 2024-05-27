@@ -30,9 +30,9 @@ S = S
 
 P = {
 
-       S -> '?' VAR             LA = {'?'}
-          | '!' Exp             LA = {'!'}
-          | VAR '=' Exp         LA = {VAR}
+    S -> '?' VAR                LA = {'?'}
+       | '!' Exp                LA = {'!'}
+       | VAR '=' Exp            LA = {VAR}
 
     Exp -> Exp' Op1             LA = {'(', NUM, VAR}
 
